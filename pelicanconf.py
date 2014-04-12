@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = u"tBunnyMan"
+AUTHOR = u"songhui"
 SITENAME = u"Hui Song's Homepage"
 SITEURL = ''
 
