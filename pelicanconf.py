@@ -14,12 +14,14 @@ THEME = 'theme/notmymod'
 # Blogroll
 LINKS = (
 		('SINTEF ICT', 'http://www.sintef.no/home/Information-and-Communication-Technology-ICT/'),
+		('SINTEF', 'http://www.sintef.no/home'),
+		('MOD research group', 'http://modelbased.net'),
         ('Pelican', 'http://blog.getpelican.com')
     )
 
 # Social widget
-SOCIAL = (('LinkedIn', 'no.linkedin.com/pub/hui-song/24/2b0/413'),
-		  ('Google+','https://plus.google.com/104535812896658559609/posts')
+SOCIAL = (('LinkedIn', 'http://no.linkedin.com/pub/hui-song/24/2b0/413'),
+		  ('GooglePlus','https://plus.google.com/104535812896658559609/posts')
           )
 
 DEFAULT_PAGINATION = 5
