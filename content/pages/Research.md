@@ -1,4 +1,4 @@
-slug: research
+slug: bresearch
 title: Research
 
 
