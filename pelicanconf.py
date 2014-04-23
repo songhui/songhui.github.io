@@ -13,10 +13,11 @@ THEME = 'theme/notmymod'
 
 # Blogroll
 LINKS = (
-		('SINTEF ICT', 'http://www.sintef.no/home/Information-and-Communication-Technology-ICT/'),
-		('SINTEF', 'http://www.sintef.no/home'),
 		('MOD research group', 'http://modelbased.net'),
-        ('Pelican', 'http://blog.getpelican.com')
+		('SINTEF ICT', 'http://www.sintef.no/home/Information-and-Communication-Technology-ICT/'),
+		('PKU SEI', 'http://www.sei.pku.edu.cn/'),
+		('TCD DSG', 'http://www.dsg.cs.tcd.ie/'),
+		('NII', 'http://www.nii.ac.jp/en/')
     )
 
 # Social widget
