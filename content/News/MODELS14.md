@@ -1,6 +1,6 @@
 date: 2014-07-27 13:58
 author: hui
-title: Paper accepted on MODELS 2014
+title: Paper accepted at MODELS 2014
 slug: models14
 tags: new paper, models
 
