@@ -18,6 +18,8 @@ Internetware Systems. International Journal of Software and Informatics 3(4), 43
 
 ##Refereed Conference papers
 1. Song, H., Zhang, X., Ferry, N., Chauvel, F., Solberg, A., & Huang, G. (2014). Modelling Adaptation Policies as Domain-Specific Constraints. In Model-Driven Engineering Languages and Systems (pp. 269-285). Springer.
+2. Nicolas Ferry, Hui Song, Alessandro Rossini, Franck Chauvel and Arnor Solberg (2014). CloudMF: Applying MDE to Tame the Complexity of Managing Multi-Cloud Applications, IEEE/ACM International Conference on Utility and Cloud Computing.
+3. Franck Chauvel, Hui Song, Nicolas Ferry and Franck Fleurey (2014). Robustness Indicators for Cloud-based Systems’ Topologies, IEEE/ACM International Conference on Utility and Cloud Computing. 
 2. Song, H., S. Barrett, A. Clarke, and S. Clarke (2013). Self-adaptation with End-User Preferences: Using
 Run-Time Models and Constraint Solving. In: Model-Driven Engineering Languages and Systems. Springer,
 pp.555–571.
