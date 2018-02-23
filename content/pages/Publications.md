@@ -4,9 +4,10 @@ slug: publication
 [Google Scholar](http://scholar.google.com/citations?user=lT6h24IAAAAJ&hl=en) 
 
 ##Refereed journal articles
-1. Allier, S., Olivier B., Benoit Baudry, Johann Bourcier, Erwan Daubert, Franck Fleurey, Martin Monperrus, Hui Song, and Maxime Tricoire. "Multi-tier diversification in Internet-based software applications". Software, IEEE, to appear.
-1. Song, H., A. Raj, S. Hajebi, A. Clarke, and S. Clarke (2013). Model-based cross-layer monitoring and adaptation
-of multilayer systems. Science China Information Sciences 56(8), 1–15.
+1. Ferry, N., Chauvel, F., Song, H., Rossini, A., Lushpenko, M. and Solberg, A., 2018. CloudMF: Model-Driven Management of Multi-Cloud Applications. ACM Transactions on Internet Technology (TOIT), 18(2), p.16.
+1. Chauvel, F., Song, H., Ferry, N. and Fleurey, F., 2015. Evaluating robustness of cloud-based systems. Journal of Cloud Computing, 1(4), pp.1-17.
+1. Allier, S., Barais, O., Baudry, B., Bourcier, J., Daubert, E., Fleurey, F., Monperrus, M., Song, H. and Tricoire, M., 2015. Multitier diversification in web-based software applications. IEEE Software, 32(1), pp.83-90.
+1. Song, H., A. Raj, S. Hajebi, A. Clarke, and S. Clarke (2013). Model-based cross-layer monitoring and adaptation of multilayer systems. Science China Information Sciences 56(8), 1–15.
 1. Song, H., G. Huang, F. Chauvel, Y. Xiong, Z. Hu, Y. Sun, and H. Mei (2011). Supporting Runtime Software
 Architecture: A Bidirectional-Transformation-Based Approach. The Journal of Systems and Software 84(5),
 711–723.
@@ -17,6 +18,7 @@ Internetware Systems. International Journal of Software and Informatics 3(4), 43
 
 
 ##Refereed Conference papers
+1. Song, H., Elgammal, A., Nallur, V., Chauvel, F., Fleurey, F. and Clarke, S., 2015, May. On architectural diversity of dynamic adaptive systems. In Software Engineering (ICSE), 2015 IEEE/ACM 37th IEEE International Conference on (Vol. 2, pp. 595-598). IEEE.
 1. Song, H., Zhang, X., Ferry, N., Chauvel, F., Solberg, A., & Huang, G. (2014). Modelling Adaptation Policies as Domain-Specific Constraints. In Model-Driven Engineering Languages and Systems (pp. 269-285). Springer.
 2. Nicolas Ferry, Hui Song, Alessandro Rossini, Franck Chauvel and Arnor Solberg (2014). CloudMF: Applying MDE to Tame the Complexity of Managing Multi-Cloud Applications, IEEE/ACM International Conference on Utility and Cloud Computing.
 3. Franck Chauvel, Hui Song, Nicolas Ferry and Franck Fleurey (2014). Robustness Indicators for Cloud-based Systems’ Topologies, IEEE/ACM International Conference on Utility and Cloud Computing. 
