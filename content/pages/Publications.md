@@ -4,6 +4,7 @@ slug: publication
 [Google Scholar](http://scholar.google.com/citations?user=lT6h24IAAAAJ&hl=en) 
 
 ##Refereed journal articles
+1. Bencomo, N., Götz, S. and Song, H., 2019. Models@ run. time: a guided tour of the state of the art and research challenges. Software & Systems Modeling, pp.1-34.
 1. Ferry, N., Chauvel, F., Song, H., Rossini, A., Lushpenko, M. and Solberg, A., 2018. CloudMF: Model-Driven Management of Multi-Cloud Applications. ACM Transactions on Internet Technology (TOIT), 18(2), p.16.
 1. Chauvel, F., Song, H., Ferry, N. and Fleurey, F., 2015. Evaluating robustness of cloud-based systems. Journal of Cloud Computing, 1(4), pp.1-17.
 1. Allier, S., Barais, O., Baudry, B., Bourcier, J., Daubert, E., Fleurey, F., Monperrus, M., Song, H. and Tricoire, M., 2015. Multitier diversification in web-based software applications. IEEE Software, 32(1), pp.83-90.
@@ -18,6 +19,8 @@ Internetware Systems. International Journal of Software and Informatics 3(4), 43
 
 
 ##Refereed Conference papers
+1. Nguyen, P.H., Song, H., Chauvel, F., Muller, R., Boyar, S. and Levin, E., 2019, August. Using microservices for non-intrusive customization of multi-tenant SaaS. In Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (pp. 905-915). ACM.
+1. Song, H., Chauvel, F. and Solberg, A., 2018, May. Deep customization of multi-tenant SaaS using intrusive microservices. In 2018 IEEE/ACM 40th International Conference on Software Engineering: New Ideas and Emerging Technologies Results (ICSE-NIER) (pp. 97-100). IEEE.
 1. Song, H., Elgammal, A., Nallur, V., Chauvel, F., Fleurey, F. and Clarke, S., 2015, May. On architectural diversity of dynamic adaptive systems. In Software Engineering (ICSE), 2015 IEEE/ACM 37th IEEE International Conference on (Vol. 2, pp. 595-598). IEEE.
 1. Song, H., Zhang, X., Ferry, N., Chauvel, F., Solberg, A., & Huang, G. (2014). Modelling Adaptation Policies as Domain-Specific Constraints. In Model-Driven Engineering Languages and Systems (pp. 269-285). Springer.
 2. Nicolas Ferry, Hui Song, Alessandro Rossini, Franck Chauvel and Arnor Solberg (2014). CloudMF: Applying MDE to Tame the Complexity of Managing Multi-Cloud Applications, IEEE/ACM International Conference on Utility and Cloud Computing.
