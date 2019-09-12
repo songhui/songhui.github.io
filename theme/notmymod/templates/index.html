@@ -6,7 +6,7 @@
 <footer class="post-info">
 <img src="{{ SITEURL }}/hui.jpg" />
 </footer>
-    {% for page in PAGES %}
+    {% for page in pages %}
 		{% if page.slug == 'about' %}
 			{{ page.content }}        	
 		{% endif %}
